@@ -2,7 +2,7 @@
 	<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 	<head>
 		<meta charset="utf-8">
-		<title>Jeffrey Mills | Web Developer</title>
+		<title>Jeffrey Mills | An award-winning Web Developer based in New Orleans, LA</title>
 		<meta name="description" content="Professional Web Developer currently living in New Orleans, LA. I develop websites and web applications that will impress your visitors.">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
