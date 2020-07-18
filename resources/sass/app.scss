@@ -1,0 +1,12 @@
+@tailwind base;
+
+*,
+*::before,
+*::after {
+  border-width: 1px;
+  border-style: none;
+}
+
+@tailwind components;
+
+@tailwind utilities;
